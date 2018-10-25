@@ -1,0 +1,282 @@
+/* NOSOTOS.HTML*/
+/*Primer Query*/
+@media screen and (min-width: 995px) {
+	body {
+		margin: 0;
+	}
+	.nav {
+		margin:0;
+	}
+
+	.navbar {
+		background-color: #b2c6d5;
+		margin: 0;
+	}
+
+	.navbar-brand img {
+		height: 20px;
+		float: left;
+		margin: 5px 8px;
+	}
+
+	.navbar-default .navbar-nav li a {
+	    color: #0060a8;
+	 }
+
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	    border: none;
+	}
+
+	.row {
+		margin:0;
+	}
+		
+	.nosotros {
+		margin-top: 20px;
+		margin-bottom: 50px;
+
+	}
+
+	.nosotros_text {
+		text-align: center;
+		color: #0060a8;
+	}
+
+	.nosotros_text p {
+		font-size: 0.9em;
+		margin: 15px 0;
+	}
+
+	.nosotros_text h3 {
+		color: #ff9900;
+	}
+
+	.nosotros_text h4 {
+		margin-top: 20px;
+	}
+
+	.nosotros_text span {
+		font-style: italic;
+	}
+
+	.nosotros_text img {
+		width: 400px;
+	}
+
+	.nosotros_text li{
+		text-align: left;
+		font-size: 0.9em;
+	}
+
+	.nosotros_tabla a {
+		margin-right: 15px;
+	}
+
+	table {
+		width: 100%;
+		border: 0;
+		letter-spacing: 2px;
+		padding: 0;
+		background-color: #f5f5f5;
+		font-size: 0.9em;
+		margin: 10px;
+
+	}
+
+	td {
+		border-right: solid white 5px;
+		border-bottom: solid white 5px;
+
+	}
+}
+
+
+/*FIN Primer Query*/
+/*Segundo Query*/
+@media screen and (min-width: 760px) and (max-width: 994px) {
+	body {
+		margin: 0;
+	}
+	.nav {
+		margin:0;
+	}
+
+	.navbar {
+		background-color: #b2c6d5;
+		margin: 0;
+	}
+
+	.navbar-brand img {
+		height: 20px;
+		float: left;
+		margin: 5px 8px;
+	}
+
+	.navbar-default .navbar-nav li a {
+	    color: #0060a8;
+	 }
+
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	    border: none;
+	}
+
+	.row {
+		margin:0;
+	}
+	
+
+	.nosotros {
+		margin-top: 20px;
+		margin-bottom: 50px;
+
+	}
+
+	.nosotros_text {
+		text-align: center;
+		color: #0060a8;
+		width: 100%;
+	}
+
+	.nosotros_text p {
+		font-size: 0.9em;
+		margin: 15px 0;
+	}
+
+	.nosotros_text h3 {
+		color: #ff9900;
+	}
+
+	.nosotros_text h4 {
+		margin-top: 20px;
+	}
+
+	.nosotros_text span {
+		font-style: italic;
+	}
+
+	.nosotros_text img {
+		width: 400px;
+	}
+
+	.nosotros_text li{
+		text-align: left;
+		font-size: 0.9em;
+	}
+
+	.nosotros_tabla {
+		width: 100%;
+	}
+
+	.nosotros_tabla a {
+		margin-right: 15px;
+	}
+
+	table {
+		width: 100%;
+		border: 0;
+		letter-spacing: 2px;
+		padding: 0;
+		background-color: #f5f5f5;
+		font-size: 0.9em;
+		margin: 10px;
+
+	}
+
+	td {
+		border-right: solid white 5px;
+		border-bottom: solid white 5px;
+
+	}
+}
+
+/*FIN Segundo Query*/
+/*Tercer Query*/
+@media screen and (max-width: 759px) {
+	body {
+		margin: 0;
+	}
+	.nav {
+		margin:0;
+	}
+
+	.navbar {
+		background-color: #b2c6d5;
+		margin: 0;
+	}
+
+	.navbar-brand img {
+		height: 20px;
+		float: left;
+		margin: 5px 8px;
+	}
+
+	.navbar-default .navbar-nav li a {
+	    color: #0060a8;
+	 }
+
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	    border: none;
+	}
+
+	.row {
+		margin:0;
+	}
+	
+	.nosotros {
+		margin-top: 20px;
+		margin-bottom: 50px;
+
+	}
+
+	.nosotros_text {
+		text-align: center;
+		color: #0060a8;
+	}
+
+	.nosotros_text p {
+		font-size: 0.9em;
+		margin: 15px 0;
+	}
+
+	.nosotros_text h3 {
+		color: #ff9900;
+	}
+
+	.nosotros_text h4 {
+		margin-top: 20px;
+	}
+
+	.nosotros_text span {
+		font-style: italic;
+	}
+
+	.nosotros_text img {
+		width: 400px;
+	}
+
+	.nosotros_text li{
+		text-align: left;
+		font-size: 0.9em;
+	}
+
+	.nosotros_tabla a {
+		margin-right: 15px;
+	}
+
+	table {
+		width: 100%;
+		border: 0;
+		letter-spacing: 2px;
+		padding: 0;
+		background-color: #f5f5f5;
+		font-size: 0.9em;
+		margin: 10px;
+
+	}
+
+	td {
+		border-right: solid white 5px;
+		border-bottom: solid white 5px;
+
+	}
+}
